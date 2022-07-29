@@ -1,2 +1,2 @@
 # Same-JavaScript-Exercises
-Exercícios em JS
+Exercícios em JS focados em praticar.
